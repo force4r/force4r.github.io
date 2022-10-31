@@ -527,8 +527,13 @@ footer{
    
     .galeria-contenedor{
 
-        width: 100%;
+        width: 80%;
     }
+     
+    .galeria-contenedor img{
+        
+        width: 80%;
+     }
 
     .fullscreen img{
         width: 100%;
