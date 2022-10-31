@@ -535,6 +535,7 @@ footer{
     .galeria-contenedor img{
         
         width: 80%;
+        margin: auto;
      }
 
     .fullscreen img{
