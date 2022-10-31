@@ -528,14 +528,13 @@ footer{
     .galeria-contenedor{
 
         width: 100%;
+       
   
     }
      
     .galeria-contenedor img{
         
         width: 80%;
-        margin: 0;
-        padding: 0; 
      }
 
     .fullscreen img{
